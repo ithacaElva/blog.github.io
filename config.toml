@@ -1,4 +1,4 @@
-baseURL = "https://raditian-hugo.radity.com/"
+baseURL = "http://ithacaelva.github.io/personalwebsite/"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
