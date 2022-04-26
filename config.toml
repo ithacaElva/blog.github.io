@@ -1,4 +1,4 @@
-baseURL = "http://ithacaelva.github.io/personalwebsite/"
+baseURL = "http://ithacaelva.github.io/blog/"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
@@ -31,6 +31,11 @@ theme = "raditian-free-hugo-theme"
   weight = 2
 
   [[menu.header]]
+  name = "Education"
+  URL = "#education"
+  weight = 3
+
+  [[menu.header]]
   name = "Portfolio"
   URL = "#portfolio"
   weight = 3
@@ -45,6 +50,11 @@ theme = "raditian-free-hugo-theme"
   name = "About"
   URL = "#about"
   weight = 2
+
+  [[menu.footer]]
+  name = "Education"
+  URL = "#education"
+  weight = 3
 
   [[menu.footer]]
   name = "Portfolio"
